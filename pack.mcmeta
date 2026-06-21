@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "author": "Shuukyo",
+    "min_format": [82.0],
+    "max_format": [107,1],
+    "description": [
+      "",
+      {"text":"Just Plushies","color":"gold"},
+      {"text":"\n"},
+      {"text":"v1.0.0 By Shuukyo","color":"gray"}
+    ]
+  }
+}
