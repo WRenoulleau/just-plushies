@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/animals/rare",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

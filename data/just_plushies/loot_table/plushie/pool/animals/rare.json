@@ -1,0 +1,117 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-03","plushie_name":"turkey"},
+                "minecraft:item_name": {"text": "Turkey Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "03","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRmYWE2NzcxYjVkZTUzNmViZWQ2Yzg1MzY2YWIzNDNmMmVmNTMyNjllYWQxMTczYTg0ZGFlNDJkNmNmMiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-23","plushie_name":"arctic-fox"},
+                "minecraft:item_name": {"text": "Arctic Fox Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "23","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmVjZDUwOWVhOTYzNzJlNzNjOWMyZDI2MTQ4OTA2MTQyZGNmMzMzM2UyZDUzYTA1MWUxOGViYTYxNDE0ZjMzZSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-25","plushie_name":"banana-monkey"},
+                "minecraft:item_name": {"text": "Banana Monkey Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "25","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJiYzBjZTYzNDA3MmIyMzhlNzllYzQ2NTdjNGZmMTc2ZDA1ZTYxOWIwOTdmZjViMjE3ZmFmZDZlM2U2NDNlOCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-26","plushie_name":"sniffer"},
+                "minecraft:item_name": {"text": "Sniffer Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "26","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg5MDdhMDIwYjUwZmY4ZWRjZGUwMjE5ZDJhODliYzJmYTVjMzk0MWEyMDIwNTUyMWI5MTY5N2EwNmM1MmMyZiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

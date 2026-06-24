@@ -1,0 +1,333 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-02","plushie_name":"chicken"},
+                "minecraft:item_name": {"text": "Chicken Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "02","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY0ZDYyM2QzMGMyNzhlMmVjNDRjYmM2ZGNlNjc4MDI2OGQ1MDUyNmQ2YTQ5NmQyNjZiMjFlOTBlZjEwN2RjYSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-04","plushie_name":"cow"},
+                "minecraft:item_name": {"text": "Cow Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "04","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWJjNGY3NDc3ZDZiNTk2OWRiNGM4MWEzMWIxY2I3ZTZmMzczMGRlMTliNTBmNzhjOTYyMTdiOWQzOTJmMDk3YiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-07","plushie_name":"pig"},
+                "minecraft:item_name": {"text": "Pig Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "07","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGY0MmZjMTI1MWFmN2ZiZDYzZmI2MDEyODNmNzFkNTcyYWMxNjk0ZWJlMWE5NmYzNWU0MDkyMjI1YjJkZDMyMiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-08","plushie_name":"sheep"},
+                "minecraft:item_name": {"text": "Sheep Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "08","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJiNmFkYjNiNmU4M2MwNzRlN2QwZWJhZmYxNGQ2YWNiYmFiZWIwNjY5NGQ2ZWUzOGNjOGRkMWJmNjYzMGJjNiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-09","plushie_name":"bunny"},
+                "minecraft:item_name": {"text": "Bunny Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "09","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ4Yjg0ZmI4ZGQyOWY3YWU3ODYyMWVmMmU2ZTcyYTExNTljOTRhMmQ1Yjg3NDhhNTgzYmMyODVhMzU5OTE5NiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-10","plushie_name":"bee"},
+                "minecraft:item_name": {"text": "Bee Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "10","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQyMGM5YzQzZTA5NTg4MGRjZDJlMjgxYzgxZjQ3YjE2M2I0NzhmNThhNTg0YmI2MWY5M2U2ZTEwYTE1NWYzMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-13","plushie_name":"bat"},
+                "minecraft:item_name": {"text": "Bat Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "13","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM5MDQzNjQ5ZjZjN2U5OTM4ZjQ1ZjkzYWU5NDRmZjc4MzNlNTNjNWZhMWVjMDgzZjUxZTJhN2JmZjRiMzljNSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-15","plushie_name":"llama"},
+                "minecraft:item_name": {"text": "Llama Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "15","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWY2NmFkMDFlYmY5ZGZmYzA3YzdlMDkwNzk2NWQ5OGI4MGViOWM1NjdhN2EyMjg1NjY5MjBkZjVhNzJjYWU4OSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-17","plushie_name":"armadillo"},
+                "minecraft:item_name": {"text": "Armadillo Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "17","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg1MmIzM2JhMjk0ZjU2MDA5MDc1MmQxMTNmZTcyOGNiYzdkZDA0MjAyOWEzOGQ1MzgyZDY1YTIxNDYwNjhiNyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-18","plushie_name":"koala"},
+                "minecraft:item_name": {"text": "Koala Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "18","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4ZTM3OTY0MmZkODYzMDc3MTYwNjA1OGUxNWZmNGZhNjE0N2U3YmY1MmQwODRlZTU0ZGNlZmQxOTdhNzY0MSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-21","plushie_name":"polar-bear"},
+                "minecraft:item_name": {"text": "Polar Bear Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "21","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ3YjhiZmZkOWI3ZTJkYzZlNDE1YTFhYTc0YzhlYjgzODU4MmY4YzI1MTZkYTc5OGM5OWI3OWJkZDhmMTJjNCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-22","plushie_name":"fox"},
+                "minecraft:item_name": {"text": "Fox Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "22","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDEyNDdmZjA5YzJiZjZlZjdmNDQzM2UzMDczNjFlODViODQwZTI2NmVhYjg2NjdjZTZlOWUzNDEyODQzZDUxZiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "consume": {
+      "trigger": "minecraft:consume_item",
+      "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"rare\"}" } } }
+    }
+  },
+  "rewards": { "function": "just_plushies:box/rare/open" }
+}

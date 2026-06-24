@@ -1,0 +1,1 @@
+loot give @s loot just_plushies:box/epic

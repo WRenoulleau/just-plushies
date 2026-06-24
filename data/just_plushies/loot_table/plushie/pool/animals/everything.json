@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/animals/common",
+          "weight": 60
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/animals/uncommon",
+          "weight": 27
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/animals/rare",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/animals/epic",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

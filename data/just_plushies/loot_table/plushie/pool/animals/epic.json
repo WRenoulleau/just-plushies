@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-27","plushie_name":"t-rex"},
+                "minecraft:item_name": {"text": "T-Rex Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "EPIC PLUSHIE","bold": true,"color": "light_purple","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "27","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk2ODgzZjRkMmZkOTgxZDY2MTg4YzMxOTgyMDUzMDk0MTI3YjgwNTI5YTVhN2UwNDQyMWU1M2Y1NDY3OGJjMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
