@@ -14,7 +14,7 @@
         }
       }
     },
-    "title": "Common Collection",
+    "title": "Common Collector",
     "description": [
       {"text": "Collect every "},
       {"text": "COMMON", "color":"white", "bold":true},

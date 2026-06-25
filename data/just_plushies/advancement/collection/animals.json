@@ -14,9 +14,13 @@
         }
       }
     },
-    "title": "Animals Collection",
-    "description": "Collect every plushies from the \"Animals\" Collection",
-    "frame": "task",
+    "title": "Animal Enthusiast",
+    "description": [
+      {"text": "Complete every plushies from the "},
+      {"text": "[Animals]", "color":"green", "underlined":true},
+      {"text": " Collection"}
+    ],
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

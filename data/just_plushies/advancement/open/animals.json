@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "consume": {
+      "trigger": "minecraft:consume_item",
+      "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"animals\"}" } } }
+    }
+  },
+  "rewards": { "function": "just_plushies:box/animals/open" }
+}

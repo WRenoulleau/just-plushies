@@ -4,7 +4,7 @@
     "icon": {
       "id": "minecraft:knowledge_book"
     },
-    "title": "Plushie Collector",
+    "title": "The Ultimate Plushie Collector",
     "description": "Collect Them All!\n\n💡 Use '/trigger plushies_catalogue' to see all the plushies",
     "frame": "challenge",
     "show_toast": true,

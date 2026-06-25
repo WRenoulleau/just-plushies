@@ -14,7 +14,7 @@
         }
       }
     },
-    "title": "Rare Collection",
+    "title": "Rare Collector",
     "description": [
       {"text": "Collect every "},
       {"text": "RARE", "color":"aqua", "bold":true},

@@ -14,7 +14,7 @@
         }
       }
     },
-    "title": "Uncommon Collection",
+    "title": "Uncommon Collector",
     "description": [
       {"text": "Collect every "},
       {"text": "UNCOMMON", "color":"yellow", "bold":true},
