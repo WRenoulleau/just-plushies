@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "consume": {
+      "trigger": "minecraft:consume_item",
+      "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"monsters\"}" } } }
+    }
+  },
+  "rewards": { "function": "just_plushies:box/monsters/open" }
+}

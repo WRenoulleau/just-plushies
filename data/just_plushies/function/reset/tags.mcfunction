@@ -68,3 +68,19 @@ tag @s remove got_warped-frog
 tag @s remove got_wither-skeleton
 tag @s remove got_zoglin
 tag @s remove got_zombified-piglin
+
+tag @s remove got_bogged
+tag @s remove got_charged-creeper
+tag @s remove got_creeper
+tag @s remove got_ender-dragon
+tag @s remove got_enderman
+tag @s remove got_frozen-zombie
+tag @s remove got_husk
+tag @s remove got_mummy
+tag @s remove got_shulker
+tag @s remove got_skeleton
+tag @s remove got_slime
+tag @s remove got_stray
+tag @s remove got_warden
+tag @s remove got_yeti
+tag @s remove got_zombie
