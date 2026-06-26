@@ -53,3 +53,18 @@ tag @s remove got_tabby-cat
 tag @s remove got_tuxedo-cat
 tag @s remove got_white-cat
 tag @s remove got_wolf
+
+tag @s remove got_blaze
+tag @s remove got_blaze-runt
+tag @s remove got_crimson-frog
+tag @s remove got_ghast
+tag @s remove got_hoglin
+tag @s remove got_magma-cube
+tag @s remove got_netherrack
+tag @s remove got_piglin
+tag @s remove got_piglin-brute
+tag @s remove got_strider
+tag @s remove got_warped-frog
+tag @s remove got_wither-skeleton
+tag @s remove got_zoglin
+tag @s remove got_zombified-piglin

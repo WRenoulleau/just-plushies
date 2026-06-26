@@ -12,6 +12,11 @@
           "type": "minecraft:loot_table",
           "value": "just_plushies:plushie/pool/pets/epic",
           "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/nether/epic",
+          "weight": 1
         }
       ]
     }

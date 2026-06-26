@@ -1,0 +1,144 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "nether-02","plushie_name":"strider"},
+                "minecraft:item_name": {"text": "Strider Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Nether","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "02","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE5MDNlNGQ5ZWM1NjE3MTFhZDllMTcxYWY2Yjc5ZmZiNjllMjk1ZGNkOWJmMjMwNjhjOWFiYjdlMjE5NDkwZCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "nether-05","plushie_name":"zombified-piglin"},
+                "minecraft:item_name": {"text": "Zombified Piglin Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Nether","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "05","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE2ZmFkNGVkNWFhZjdkM2Y2ZWFkZjkyZDQ1NWJhMzJkNjE1ZDg1NmNkOTY0YjMwY2Y2YzVjMGM1NzUxZGE5YyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "nether-07","plushie_name":"blaze-runt"},
+                "minecraft:item_name": {"text": "Blaze Runt Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Nether","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "07","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2M5MTM3ODk1ZTAzOWNlOTM2ZGY1NmRmN2ZjN2Q3NmM5Y2U5ODMxMzVhN2Q2ZTk1YmI0Y2E1NTY0MmJmYTE2MSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "nether-09","plushie_name":"zoglin"},
+                "minecraft:item_name": {"text": "Zoglin Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Nether","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "09","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4YmY3Y2FkZWZhMTBmOTU3YTJmYjkzOGI0YmExMjI1ZDljODk3NzJhZTdkZDhkNDBjMzE3NmFhMDQzM2YxZCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "nether-11","plushie_name":"wither-skeleton"},
+                "minecraft:item_name": {"text": "Wither Skeleton Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Nether","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "11","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWM5Y2IzOTEzZGE2ZjQyYTQyMjQ0YzliMmZhM2YxMjNlNzk4YTZkNjc3NDk2ODkwOWQxYzNjMTY3M2JmOTY3NCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
