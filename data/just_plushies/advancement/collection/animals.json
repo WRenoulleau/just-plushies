@@ -16,7 +16,7 @@
     },
     "title": "Animal Enthusiast",
     "description": [
-      {"text": "Complete every plushies from the "},
+      {"text": "Collect every plushies from the "},
       {"text": "[Animals]", "color":"green", "underlined":true},
       {"text": " Collection"}
     ],
@@ -52,6 +52,10 @@
     "animals-24": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-24\"}" } } ] } },
     "animals-25": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-25\"}" } } ] } },
     "animals-26": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-26\"}" } } ] } },
-    "animals-27": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-27\"}" } } ] } }
+    "animals-27": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-27\"}" } } ] } },
+    "animals-28": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-28\"}" } } ] } },
+    "animals-29": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-29\"}" } } ] } },
+    "animals-30": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-30\"}" } } ] } },
+    "animals-31": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-31\"}" } } ] } }
   }
 }

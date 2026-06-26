@@ -35,6 +35,14 @@
     "animals-16": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-16\"}" } } ] } },
     "animals-19": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-19\"}" } } ] } },
     "animals-20": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-20\"}" } } ] } },
-    "animals-24": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-24\"}" } } ] } }
+    "animals-24": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-24\"}" } } ] } },
+    "animals-26": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-26\"}" } } ] } },
+
+    "pets-13": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-13\"}" } } ] } },
+    "pets-14": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-14\"}" } } ] } },
+    "pets-15": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-15\"}" } } ] } },
+    "pets-16": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-16\"}" } } ] } },
+    "pets-17": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-17\"}" } } ] } },
+    "pets-20": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-20\"}" } } ] } }
   }
 }

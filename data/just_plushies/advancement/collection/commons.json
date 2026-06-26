@@ -37,6 +37,20 @@
     "animals-17": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-17\"}" } } ] } },
     "animals-18": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-18\"}" } } ] } },
     "animals-21": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-21\"}" } } ] } },
-    "animals-22": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-22\"}" } } ] } }
+    "animals-22": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-22\"}" } } ] } },
+
+    "pets-01": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-01\"}" } } ] } },
+    "pets-02": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-02\"}" } } ] } },
+    "pets-03": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-03\"}" } } ] } },
+    "pets-04": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-04\"}" } } ] } },
+    "pets-05": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-05\"}" } } ] } },
+    "pets-06": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-06\"}" } } ] } },
+    "pets-07": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-07\"}" } } ] } },
+    "pets-08": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-08\"}" } } ] } },
+    "pets-09": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-09\"}" } } ] } },
+    "pets-10": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-10\"}" } } ] } },
+    "pets-11": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-11\"}" } } ] } },
+    "pets-12": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-12\"}" } } ] } },
+    "pets-18": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-18\"}" } } ] } }
   }
 }

@@ -93,19 +93,73 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:rarity": "rare",
-                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-26","plushie_name":"sniffer"},
-                "minecraft:item_name": {"text": "Sniffer Plushie","italic": false},
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-27","plushie_name":"pigeon"},
+                "minecraft:item_name": {"text": "Pigeon Plushie","italic": false},
                 "minecraft:lore": [
                   {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
                   [
                     {"text": "Collection: ","color": "dark_gray","italic": false},
                     {"text": "Animals","color": "green","italic": false},
                     {"text": " / ","color": "dark_gray","italic": false},
-                    {"text": "26","color": "green","italic": false}
+                    {"text": "27","color": "green","italic": false}
                   ]
                 ],
                 "minecraft:profile": {
-                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg5MDdhMDIwYjUwZmY4ZWRjZGUwMjE5ZDJhODliYzJmYTVjMzk0MWEyMDIwNTUyMWI5MTY5N2EwNmM1MmMyZiJ9fX0="}]
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM3ZGVmNGY4Mzg0YjI3OGUxMGM5NTllNGJiZTIyNmNlN2IzOGFkMzgwYzc3MmIzMThmZDEwOTE4YjQ1N2Y0OSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-28","plushie_name":"raccoon"},
+                "minecraft:item_name": {"text": "Raccoon Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "28","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y0ODhkOWNlNWY5YTUwZWViYmEyYmNlMmExYjc2OGIxMmE1ZTQ4ODNjZjY1MTE2NjZiMDZjY2E2MzA1ZjE4YSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "animals-29","plushie_name":"snake"},
+                "minecraft:item_name": {"text": "Snake Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Animals","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "29","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA1MDNiODFhYzAyMGM2N2MzNzc4N2I0NWM5YTI2MjIzZjliYzI2YmNhMjdmODFhZjMyZjJjZjU1ZTI0NDBiNyJ9fX0="}]
                 }
               }
             }

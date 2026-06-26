@@ -29,6 +29,11 @@
     "animals-03": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-03\"}" } } ] } },
     "animals-23": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-23\"}" } } ] } },
     "animals-25": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-25\"}" } } ] } },
-    "animals-26": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-26\"}" } } ] } }
+    "animals-27": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-27\"}" } } ] } },
+    "animals-28": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-28\"}" } } ] } },
+    "animals-29": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"animals-29\"}" } } ] } },
+
+    "pets-19": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-19\"}" } } ] } },
+    "pets-21": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"pets-21\"}" } } ] } }
   }
 }
