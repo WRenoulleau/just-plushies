@@ -1,0 +1,1 @@
+$execute unless entity @s[tag=got_$(plushie_name)] run function just_plushies:scan/register_new

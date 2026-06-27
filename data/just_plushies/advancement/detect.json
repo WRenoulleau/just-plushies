@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:custom_data": "{plushie:true}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "just_plushies:scan/start_scan"
+  }
+}
