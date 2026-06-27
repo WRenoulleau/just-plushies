@@ -5,5 +5,5 @@
       "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"common\"}" } } }
     }
   },
-  "rewards": { "function": "just_plushies:box/common/open" }
+  "rewards": { "function": "just_plushies:box/open/common" }
 }

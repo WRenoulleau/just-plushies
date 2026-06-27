@@ -5,5 +5,5 @@
       "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"rare\"}" } } }
     }
   },
-  "rewards": { "function": "just_plushies:box/rare/open" }
+  "rewards": { "function": "just_plushies:box/open/rare" }
 }

@@ -5,5 +5,5 @@
       "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"nether\"}" } } }
     }
   },
-  "rewards": { "function": "just_plushies:box/nether/open" }
+  "rewards": { "function": "just_plushies:box/open/nether" }
 }

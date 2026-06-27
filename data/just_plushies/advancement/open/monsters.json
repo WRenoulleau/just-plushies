@@ -5,5 +5,5 @@
       "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"monsters\"}" } } }
     }
   },
-  "rewards": { "function": "just_plushies:box/monsters/open" }
+  "rewards": { "function": "just_plushies:box/open/monsters" }
 }

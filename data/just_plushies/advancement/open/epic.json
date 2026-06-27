@@ -5,5 +5,5 @@
       "conditions": { "item": { "predicates": { "minecraft:custom_data": "{box:\"epic\"}" } } }
     }
   },
-  "rewards": { "function": "just_plushies:box/epic/open" }
+  "rewards": { "function": "just_plushies:box/open/epic" }
 }
