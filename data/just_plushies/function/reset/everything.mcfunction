@@ -1,0 +1,3 @@
+function just_plushies:reset/stats
+function just_plushies:reset/tags
+function just_plushies:reset/advancements

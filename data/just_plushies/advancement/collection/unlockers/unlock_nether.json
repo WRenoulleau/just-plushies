@@ -1,0 +1,8 @@
+{
+  "parent": "just_plushies:collection/nether",
+  "criteria": {
+    "auto_unlock": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

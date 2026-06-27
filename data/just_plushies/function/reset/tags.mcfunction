@@ -1,3 +1,6 @@
+execute at @s run playsound item.shield.break player @a ~ ~ ~ 1 1
+tellraw @s {"text":"Your plushies related tags have been successfully removed!","color":"red"}
+
 tag @s remove got_angry-baby-bee
 tag @s remove got_arctic-fox
 tag @s remove got_armadillo

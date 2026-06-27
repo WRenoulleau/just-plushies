@@ -1,5 +1,5 @@
 {
-  "parent": "just_plushies:collection/collection_complete",
+  "parent": "just_plushies:collection/monsters",
   "display": {
     "icon": {
       "id": "minecraft:player_head",

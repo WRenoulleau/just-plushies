@@ -9,6 +9,10 @@ scoreboard players reset @s jp_pets
 scoreboard players reset @s jp_monsters
 scoreboard players reset @s jp_nether
 
-execute at @s run playsound block.enchantment_table.use player @a ~ ~ ~ 1 1
+advancement revoke @s only just_plushies:stats/first_box
+advancement revoke @s only just_plushies:stats/ten_boxes
+advancement revoke @s only just_plushies:stats/hundred_boxes
+advancement revoke @s only just_plushies:stats/five_hundred_boxes
 
+execute at @s run playsound item.shield.break player @a ~ ~ ~ 1 1
 tellraw @s {"text":"Your box opening statistics have been successfully reset!","color":"red"}
