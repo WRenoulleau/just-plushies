@@ -8,8 +8,9 @@ scoreboard players add @s jp_epic 0
 scoreboard players add @s jp_themed 0
 scoreboard players add @s jp_animals 0
 scoreboard players add @s jp_pets 0
-scoreboard players add @s jp_monsters 0
 scoreboard players add @s jp_nether 0
+scoreboard players add @s jp_monsters 0
+scoreboard players add @s jp_miscellaneous 0
 
 tellraw @s ["", \
     {"text":"\nPLUSHIE BOX OPENING STATISTICS","bold":true,"underlined":true,"color":"green"}, \
@@ -24,5 +25,6 @@ tellraw @s ["", \
     {"text":"\n    ┣ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY0ZDYyM2QzMGMyNzhlMmVjNDRjYmM2ZGNlNjc4MDI2OGQ1MDUyNmQ2YTQ5NmQyNjZiMjFlOTBlZjEwN2RjYSJ9fX0="}]}},{"text":" [Animals]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_animals"},"color":"dark_green"}, \
     {"text":"\n    ┣ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQyMmUzMjc0MGI3MjVkNjIwZGNkNDNlMGY3NzI2MWVmYmM2ZDUzNWE3NjllNWNmZjY3OWM3OTQ1NTYxZDNmMSJ9fX0="}]}},{"text":" [Pets]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_pets"},"color":"dark_green"}, \
     {"text":"\n    ┣ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE5MDNlNGQ5ZWM1NjE3MTFhZDllMTcxYWY2Yjc5ZmZiNjllMjk1ZGNkOWJmMjMwNjhjOWFiYjdlMjE5NDkwZCJ9fX0="}]}},{"text":" [Nether]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_nether"},"color":"dark_green"}, \
-    {"text":"\n    ┗ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwMzMwZDg5MDBlZWY4MDAyYzlmOTgxYjM5MTU5ZWU4YjlmOTM4NTRmZmU1YjQwMmQyNTJhYTJkN2U0NTBlIn19fQ=="}]}},{"text":" [Monsters]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_monsters"},"color":"dark_green"} \
+    {"text":"\n    ┣ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwMzMwZDg5MDBlZWY4MDAyYzlmOTgxYjM5MTU5ZWU4YjlmOTM4NTRmZmU1YjQwMmQyNTJhYTJkN2U0NTBlIn19fQ=="}]}},{"text":" [Monsters]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_monsters"},"color":"dark_green"}, \
+    {"text":"\n    ┗ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FhMWU5ZGI1MWFhYjZhNWEzMDVkMTc1YWEzMzE1MjAzNDhhNzllODFlZWQyOWU2ZTBjNmZlNWFkNjEyZWY2MCJ9fX0="}]}},{"text":" [Miscellaneous]","color":"green"},{"text":" : ","color":"gray"},{"score":{"name":"@s","objective":"jp_miscellaneous"},"color":"dark_green"} \
 ]

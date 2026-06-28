@@ -42,6 +42,10 @@
     "monsters-09": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-09\"}" } } ] } },
     "monsters-10": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-10\"}" } } ] } },
     "monsters-11": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-11\"}" } } ] } },
-    "monsters-12": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-12\"}" } } ] } }
+    "monsters-12": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-12\"}" } } ] } },
+
+    "misc-09": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-09\"}" } } ] } },
+    "misc-13": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-13\"}" } } ] } },
+    "misc-14": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-14\"}" } } ] } }
   }
 }

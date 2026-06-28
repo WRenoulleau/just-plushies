@@ -22,6 +22,11 @@
           "type": "minecraft:loot_table",
           "value": "just_plushies:plushie/pool/monsters/common",
           "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/miscellaneous/common",
+          "weight": 1
         }
       ]
     }

@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-09","plushie_name":"oxidized-copper-golem"},
+                "minecraft:item_name": {"text": "Oxidized Copper Golem Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "09","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFlMjc5MWY4NTBhZjkyMjcxNzYzZjMyZTNkNDQwNTczOTUyMTM1YzczMDgzNzE1NjY1ZDdhZGNmZjliMDZjOSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-13","plushie_name":"worker-bee"},
+                "minecraft:item_name": {"text": "Worker Bee Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "13","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGYyOWIwNWVmZTA2NjUwNzJjOGViN2Q2OTcyM2UwYWIzYjY1YzIxODM4OTBmODkzYjVlZmU5M2JjMjA0ZGZjYSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-14","plushie_name":"clown"},
+                "minecraft:item_name": {"text": "Clown Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "14","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFkZDNmMjgzYThhYmJiMGIzNDU3MzVlMjA0N2FkOTViMGY2NzViNjUxYmZkMGQxNDU2MGRiMjc1MDNhNjg2MyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

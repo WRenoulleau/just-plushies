@@ -35,6 +35,10 @@
     "nether-12": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"nether-12\"}" } } ] } },
     "nether-14": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"nether-14\"}" } } ] } },
 
-    "monsters-15": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-15\"}" } } ] } }
+    "monsters-15": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"monsters-15\"}" } } ] } },
+
+    "misc-15": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-15\"}" } } ] } },
+    "misc-16": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-16\"}" } } ] } },
+    "misc-17": { "trigger": "minecraft:inventory_changed", "conditions": { "items": [ { "predicates": { "minecraft:custom_data": "{plushie_id:\"misc-17\"}" } } ] } }
   }
 }

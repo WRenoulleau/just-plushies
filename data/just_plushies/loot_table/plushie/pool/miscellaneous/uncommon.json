@@ -1,0 +1,171 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-03","plushie_name":"cookie"},
+                "minecraft:item_name": {"text": "Cookie Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "03","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjAxNzY3OTFiNzFhYmYxZWUxY2QxY2I5YzU0MWIwMzE1MTM2OTRlYTcxYTRlMmUyYWY4MWEyYjZiNjY3MjUzYSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-07","plushie_name":"exposed-copper-golem"},
+                "minecraft:item_name": {"text": "Exposed Copper Golem Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "07","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ4Y2Y4MjQ1MzRhM2U2M2NiMjI3OGMzYTZlYzViM2IxN2Q3YzhlMTc4YWM2N2Q3OTNlNjNkMGVlYTliMDQ4YyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-08","plushie_name":"weathered-copper-golem"},
+                "minecraft:item_name": {"text": "Weathered Copper Golem Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "08","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY0MDE0NTZlMGI0ZGEzODhlNmYyMWE4NjgzNjA4NTAxZWNiNDk4OGFmNzZkYzRjNGFjZTVjOTJmZTM0ZTlmMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-10","plushie_name":"tuff-golem"},
+                "minecraft:item_name": {"text": "Tuff Golem Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "10","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI5MjAzYTliODczYzk2YTkzYjY5MGE4NjJlNzMwZmEwM2ZmZDA4ODAxM2JlMjNjOTllNmQyNWFmYzhhODFhMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-11","plushie_name":"rascal"},
+                "minecraft:item_name": {"text": "Rascal Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "11","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE4NjJiMzY5NjYzMGFlMjg1N2JlOTZhYTY1ZThkMWI3ZTY0ODM1YTc0OTUyYjc2OGEyM2ZkMDQ3NjNhYTFmMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "misc-12","plushie_name":"sulfur-cube"},
+                "minecraft:item_name": {"text": "Sulfur Cube in a bucket Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Miscellaneous","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "12","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FhMWU5ZGI1MWFhYjZhNWEzMDVkMTc1YWEzMzE1MjAzNDhhNzllODFlZWQyOWU2ZTBjNmZlNWFkNjEyZWY2MCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
