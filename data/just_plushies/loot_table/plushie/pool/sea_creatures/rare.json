@@ -1,0 +1,198 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-05","plushie_name":"pufferfish"},
+                "minecraft:item_name": {"text": "Pufferfish in a bucket Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "05","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU5ZGMwYjIyN2YyNDhmN2IyYWU4OWM1YmVmMGFmYmNhODM0YTk0ZWQ1ZTI4ODI2ODEzNmJhNjIzYTI0NTUxYSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-06","plushie_name":"tropical-fish"},
+                "minecraft:item_name": {"text": "Tropical Fish in a bucket Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "06","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTU4ZjUyODZhNzU5MjRkMDhlNWFmNWY5ZTQ3ZGRmOGFkYzA4ODRkZjQxOTdkYjU5YWIyMjZhNWI1MzNlYmQ5MSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-07","plushie_name":"axolotl"},
+                "minecraft:item_name": {"text": "Axolotl in a bucket Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "07","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWZiYWYzYTdhZDY0MjUxNjYxYzE0YjI4NDMxNGJjYTJiY2FlNmExNWMxODgzNjJhZDgyMDA3ZDUzYTkyMTVjNSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-12","plushie_name":"cherry-frog"},
+                "minecraft:item_name": {"text": "Cherry Frog Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "12","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDI5NjY0MGU0OWQ4ZmVhZDM4OWM2OThkYjEyYmFiY2Q0YjVkZGJiMTg4ZTY5YTNmMzM4OTIzNGFmMjM0MTU1YyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-14","plushie_name":"sculk-frog"},
+                "minecraft:item_name": {"text": "Sculk Frog Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "14","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDAzMzlmM2JmYzEzNzFmNGU4ODA0ZTkyNzlkMTBiZjgxODVmMDA2OWMzYjRjNWIwZmNiZDgwZWUwNDlkM2ZjZSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-16","plushie_name":"frog-prince"},
+                "minecraft:item_name": {"text": "Frog Prince Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "16","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWIwYmM5NDEwMDVhOGE2ZWFjZDJmYTA0ODgxY2YzMTI2YWEzZDY4NzkzNDg4ZGFjMzRhNmQzMGI3NjQ0N2ExOSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-20","plushie_name":"nautilus"},
+                "minecraft:item_name": {"text": "Nautilus Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "20","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzI4MDVlNGE3OTgyZTcwNmViZDJlYTZjODIwOTQwMmNkN2MxY2Y5Y2MwOGI3YWFjZTNhOGFmNzcxOGNjYTdkYyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

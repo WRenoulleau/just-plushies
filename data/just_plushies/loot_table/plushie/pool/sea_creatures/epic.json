@@ -1,0 +1,117 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-13","plushie_name":"mushroom-frog"},
+                "minecraft:item_name": {"text": "Mushroom Frog Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "EPIC PLUSHIE","bold": true,"color": "light_purple","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "13","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWY2YzAwMWZlODRmMmU1MjA0YjgxNjhhOTY5MDY2YTAzNjE1MDg5YWU4MmNiMTIzODY3YjYzYTgzYmFkYjdiNiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-15","plushie_name":"ender-frog"},
+                "minecraft:item_name": {"text": "Ender Frog Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "EPIC PLUSHIE","bold": true,"color": "light_purple","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "15","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzc0MTllZjNiNjA4ZjNhMTk5NGM3Y2E5NWFkMmM3MTliMThkOGJjNzA3MDhiY2Y0N2ZmZGQzN2VhY2U3M2IwNyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-22","plushie_name":"golden-hermit-crab"},
+                "minecraft:item_name": {"text": "Golden Hermit Crab Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "EPIC PLUSHIE","bold": true,"color": "light_purple","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "22","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDhiNWU0MjdkY2Y3NzFmYjhkYTY2YmUyYjc0ODBlYjE1NjhlYTUxMDA4OGZmZWM4NzAxOTRiNGUxZmQ1NmVlZSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "epic",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-24","plushie_name":"elder-guardian"},
+                "minecraft:item_name": {"text": "Elder Guardian Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "EPIC PLUSHIE","bold": true,"color": "light_purple","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "24","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM0MGEyNjhmMjVmZDVjYzI3NmNhMTQ3YTg0NDZiMjYzMGE1NTg2N2EyMzQ5ZjdjYTEwN2MyNmViNTg5OTEifX19"}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,6 +12,7 @@ scoreboard objectives add jp_epic dummy
 scoreboard objectives add jp_themed dummy
 scoreboard objectives add jp_animals dummy
 scoreboard objectives add jp_pets dummy
+scoreboard objectives add jp_sea_creatures dummy
 scoreboard objectives add jp_nether dummy
 scoreboard objectives add jp_monsters dummy
 scoreboard objectives add jp_miscellaneous dummy

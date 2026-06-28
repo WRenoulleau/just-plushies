@@ -57,6 +57,31 @@ tag @s remove got_tuxedo-cat
 tag @s remove got_white-cat
 tag @s remove got_wolf
 
+tag @s remove got_axolotl
+tag @s remove got_cherry-frog
+tag @s remove got_cod
+tag @s remove got_drowned
+tag @s remove got_elder-guardian
+tag @s remove got_ender-frog
+tag @s remove got_frog
+tag @s remove got_frog-prince
+tag @s remove got_glow-squid
+tag @s remove got_golden-hermit-crab
+tag @s remove got_guardian
+tag @s remove got_hermit-crab
+tag @s remove got_mushroom-frog
+tag @s remove got_nautilus
+tag @s remove got_pufferfish
+tag @s remove got_salmon
+tag @s remove got_sculk-frog
+tag @s remove got_squid
+tag @s remove got_tadpole
+tag @s remove got_temperate-frog
+tag @s remove got_tropical-fish
+tag @s remove got_turtle
+tag @s remove got_warm-frog
+tag @s remove got_whale
+
 tag @s remove got_blaze
 tag @s remove got_blaze-runt
 tag @s remove got_crimson-frog
@@ -87,3 +112,21 @@ tag @s remove got_stray
 tag @s remove got_warden
 tag @s remove got_yeti
 tag @s remove got_zombie
+
+tag @s remove got_alien
+tag @s remove got_brick
+tag @s remove got_cactus
+tag @s remove got_clown
+tag @s remove got_cookie
+tag @s remove got_copper-golem
+tag @s remove got_entity
+tag @s remove got_exposed-copper-golem
+tag @s remove got_gnome
+tag @s remove got_oxidized-copper-golem
+tag @s remove got_rascal
+tag @s remove got_snow-golem
+tag @s remove got_sulfur-cube
+tag @s remove got_tuff-golem
+tag @s remove got_ufo
+tag @s remove got_weathered-copper-golem
+tag @s remove got_worker-bee

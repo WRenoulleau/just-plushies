@@ -15,6 +15,11 @@
         },
         {
           "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/sea_creatures/uncommon",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
           "value": "just_plushies:plushie/pool/nether/uncommon",
           "weight": 1
         },

@@ -1,0 +1,144 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-02","plushie_name":"glow-squid"},
+                "minecraft:item_name": {"text": "Glow Squid Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "02","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM4MWFmMWQ5MTNjMTcwOTk0ZjBhMWEzYjZkMzIzZTQ3OTkzNmQ4MTcxNTk3NjM0NGQyMmUzODk5ODMxNTYyYyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-04","plushie_name":"salmon"},
+                "minecraft:item_name": {"text": "Salmon in a bucket Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "04","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTdkN2FiODEyNDBjMjJjZWJmOTI3YmJjZWQ5ZWVjZjdmMjZmN2RhNjg0ZTM2OWJkMTVkODkzMzFlZDQ0ZTJkZiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-17","plushie_name":"turtle"},
+                "minecraft:item_name": {"text": "Turtle Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "17","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlOTAzNzEzN2I2Mjg4NDJhMjkzODBmODI4YzI2ZWM2NjE4NjY0YzM4MDJjOTk0NWY0YzAxYTk0M2FhNDBlOSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-21","plushie_name":"hermit-crab"},
+                "minecraft:item_name": {"text": "Hermit Crab Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "21","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjkwNGUyMGE0MjdjMGRhMDlkYjAxNjYzYzEwMTA5MWNmMDdmNzEzNTdmOWQyMTY3YWY2NGNkODRmMjcwOWIzOCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "sea-23","plushie_name":"guardian"},
+                "minecraft:item_name": {"text": "Guardian Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "UNCOMMON PLUSHIE","bold": true,"color": "yellow","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Sea Creatures","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "23","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBiZjM0YTcxZTc3MTViNmJhNTJkNWRkMWJhZTVjYjg1Zjc3M2RjOWIwZDQ1N2I0YmZjNWY5ZGQzY2M3Yzk0In19fQ=="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

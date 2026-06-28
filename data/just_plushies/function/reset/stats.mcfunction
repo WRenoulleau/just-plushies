@@ -6,6 +6,7 @@ scoreboard players reset @s jp_epic
 scoreboard players reset @s jp_themed
 scoreboard players reset @s jp_animals
 scoreboard players reset @s jp_pets
+scoreboard players reset @s jp_sea_creatures
 scoreboard players reset @s jp_nether
 scoreboard players reset @s jp_monsters
 scoreboard players reset @s jp_miscellaneous
