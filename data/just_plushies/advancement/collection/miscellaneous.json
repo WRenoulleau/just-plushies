@@ -1,5 +1,5 @@
 {
-  "parent": "just_plushies:collection/sea_creatures",
+  "parent": "just_plushies:collection/village",
   "display": {
     "icon": {
       "id": "minecraft:player_head",

@@ -1,0 +1,198 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-02","plushie_name":"villager"},
+                "minecraft:item_name": {"text": "Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "02","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzkxNzc0ZThlNDNjZjUzNWUzMDk3MTZhMDNiNGE0YTgxMTA4NzkzZGU3NjhlYmQzZjEyMjRlNjgwMjFmZTk3ZSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-04","plushie_name":"taiga-villager"},
+                "minecraft:item_name": {"text": "Taiga Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "04","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM3M2MyYzdkNGE0Y2MxMTlmN2FkZjRiMmVmYjEwMTEwMWRmNWQ3NzU2MjYyMDgxN2E2M2QxMmYwMTQ4YzA2ZiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-05","plushie_name":"swamp-villager"},
+                "minecraft:item_name": {"text": "Swamp Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "05","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY3ZWZiNWI0ZjBmODgyYzdmMmIxYWUxMWE3MDk4Y2Y4ZDY1NTgxNGM2ZjMzZjFkMTg1NTE2ZWE5YzZhNmVhYiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-06","plushie_name":"snowy-villager"},
+                "minecraft:item_name": {"text": "Snowy Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "06","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc1MjQyOTRiMjRkNDg5MTJiZDM4NmZmYmU3NTU2MThmMTgwODU0NjRiNmQ3NTA1MTE4YTdiMmVlM2FhMDBhZSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-07","plushie_name":"savanna-villager"},
+                "minecraft:item_name": {"text": "Savanna Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "07","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTgwMWQ4MTU1MGM0ZjBhYWYwMGJlODNmMDI4MTVmMGFhNzk3OTc5OTZkY2ZkNWUxZmFkMjgzMzI3OWE0MjcyYyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-08","plushie_name":"jungle-villager"},
+                "minecraft:item_name": {"text": "Jungle Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "08","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQwMDdjZDQ3NWFkZWEwOWJiZTYzMmVkYmMyMTM3Mzg4ZDM1NmZlYmZiMzQ2NzU4N2M0YjU2YWY1MjVlN2MyIn19fQ=="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "common",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-09","plushie_name":"desert-villager"},
+                "minecraft:item_name": {"text": "Desert Villager Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "COMMON PLUSHIE","bold": true,"color": "white","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "09","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThjOGIzMmI4Njc1ZjE4NmVjNmFhNTI2Y2M2YmQyYTQ4NTIyYjNlZTdhNDUyYzczMTNmNGFkYmRkNmQ5YmNmZCJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

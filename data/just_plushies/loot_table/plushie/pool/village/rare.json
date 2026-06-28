@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-11","plushie_name":"allay"},
+                "minecraft:item_name": {"text": "Allay Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "11","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQ5ZjhiYmJjZTQ3ZDQ3MzE1Y2UzZDBjZjgxYjFjM2I0MDYzMmIzYmJjNjdjMGFkNzJhZjQ0NjZlZTFmNjhmMSJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-14","plushie_name":"evoker"},
+                "minecraft:item_name": {"text": "Evoker Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "14","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ2N2MwMzBjNjg1MDEyZjFiN2ViNmQzMTRmZDJkYzYyZTUwNWUzMzBiZTMwMDZmZDEyM2ZlNjgwYTJiNThhMyJ9fX0="}]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:player_head",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare",
+                "minecraft:custom_data": {"plushie": true,"plushie_id": "village-15","plushie_name":"vex"},
+                "minecraft:item_name": {"text": "Vex Plushie","italic": false},
+                "minecraft:lore": [
+                  {"text": "RARE PLUSHIE","bold": true,"color": "aqua","italic": false},
+                  [
+                    {"text": "Collection: ","color": "dark_gray","italic": false},
+                    {"text": "Village & Pillage","color": "green","italic": false},
+                    {"text": " / ","color": "dark_gray","italic": false},
+                    {"text": "15","color": "green","italic": false}
+                  ]
+                ],
+                "minecraft:profile": {
+                  "properties": [{"name": "textures","value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDkxMjAzNDIxNDFlZTdlODU1MDU4MmY5MmE3ZThiZjJiYWI1OTFkZDI0NDU2NDczYTEyYzQxYzc4ZmNlZWIwYiJ9fX0="}]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

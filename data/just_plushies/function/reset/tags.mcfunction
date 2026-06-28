@@ -113,6 +113,25 @@ tag @s remove got_warden
 tag @s remove got_yeti
 tag @s remove got_zombie
 
+tag @s remove got_allay
+tag @s remove got_desert-villager
+tag @s remove got_evoker
+tag @s remove got_iceologer
+tag @s remove got_iron-golem
+tag @s remove got_jungle-villager
+tag @s remove got_nitwit-villager
+tag @s remove got_pillager
+tag @s remove got_ravager
+tag @s remove got_savanna-villager
+tag @s remove got_snowy-villager
+tag @s remove got_swamp-villager
+tag @s remove got_taiga-villager
+tag @s remove got_vex
+tag @s remove got_villager
+tag @s remove got_vindicator
+tag @s remove got_wandering-trader
+tag @s remove got_witch
+
 tag @s remove got_alien
 tag @s remove got_brick
 tag @s remove got_cactus
