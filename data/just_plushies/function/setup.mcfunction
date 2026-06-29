@@ -1,6 +1,8 @@
 scoreboard objectives add jp_stats trigger
+scoreboard objectives add jp_catalog trigger
 
 scoreboard players enable @a jp_stats
+scoreboard players enable @a jp_catalog
 
 scoreboard objectives add jp_cooldown dummy
 

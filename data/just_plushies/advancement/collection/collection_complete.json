@@ -5,7 +5,7 @@
       "id": "minecraft:knowledge_book"
     },
     "title": "The Ultimate Plushie Collector",
-    "description": "Collect Them All!\n\n💡 Use '/trigger plushies_catalogue' to see all the plushies",
+    "description": "Collect Them All!\n\n💡 Use '/trigger jp_catalog' to view everything",
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

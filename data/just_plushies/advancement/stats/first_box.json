@@ -15,7 +15,7 @@
       }
     },
     "title": "Beginner Box Opener",
-    "description": "Open your first Plushie Box",
+    "description": "Open your first Plushie Box\n\n💡 Use '/trigger jp_stats' to view your opening stats",
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,

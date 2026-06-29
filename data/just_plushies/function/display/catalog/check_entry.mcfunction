@@ -1,0 +1,3 @@
+$execute if entity @s[tag=got_$(tag)] run tellraw @s ["",{"text":" ᛫ ","color":"gray"},{"text":"#$(id) ","color":"green"},{player:{properties:[{name:textures,value:"$(texture)"}]}},{"text":" [$(name)]","color":"$(color)"},{"text":" ✔","color":"green"}]
+
+$execute unless entity @s[tag=got_$(tag)] run tellraw @s ["",{"text":" ᛫ ","color":"gray"},{"text":"#$(id) ","color":"green"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNjY0NWE0NDBmNzNiZmI4ZDI3NGY0YTFiMGNkMDI3MWY1MjIzM2FiZDA3YTQ3N2IxZTdkZDdlODRiNGJkIn19fQ=="}]}},{"text":" [Hover to view]","color":"dark_gray","hover_event":{"action":"show_text","value":{"text":"$(name)","color":"$(color)"}}}]
