@@ -37,6 +37,11 @@
           "type": "minecraft:loot_table",
           "value": "just_plushies:plushie/pool/miscellaneous/uncommon",
           "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "just_plushies:plushie/pool/festivities/uncommon",
+          "weight": 1
         }
       ]
     }

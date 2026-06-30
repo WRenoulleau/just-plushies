@@ -149,3 +149,15 @@ tag @s remove got_tuff-golem
 tag @s remove got_ufo
 tag @s remove got_weathered-copper-golem
 tag @s remove got_worker-bee
+
+tag @s remove got_candy-cane
+tag @s remove got_chocolate-bunny
+tag @s remove got_elf
+tag @s remove got_gingerbread-man
+tag @s remove got_grinch
+tag @s remove got_leprechaun
+tag @s remove got_love-bunny
+tag @s remove got_pride
+tag @s remove got_pumpkin
+tag @s remove got_reindeer
+tag @s remove got_santa-claus

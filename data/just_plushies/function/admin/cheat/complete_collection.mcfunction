@@ -149,3 +149,15 @@ tag @s add got_tuff-golem
 tag @s add got_ufo
 tag @s add got_weathered-copper-golem
 tag @s add got_worker-bee
+
+tag @s add got_candy-cane
+tag @s add got_chocolate-bunny
+tag @s add got_elf
+tag @s add got_gingerbread-man
+tag @s add got_grinch
+tag @s add got_leprechaun
+tag @s add got_love-bunny
+tag @s add got_pride
+tag @s add got_pumpkin
+tag @s add got_reindeer
+tag @s add got_santa-claus

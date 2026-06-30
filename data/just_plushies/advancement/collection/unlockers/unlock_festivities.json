@@ -1,5 +1,5 @@
 {
-  "parent": "just_plushies:collection/miscellaneous",
+  "parent": "just_plushies:collection/festivities",
   "criteria": {
     "auto_unlock": {
       "trigger": "minecraft:tick"

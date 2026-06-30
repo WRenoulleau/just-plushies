@@ -11,6 +11,7 @@ scoreboard players reset @s jp_nether
 scoreboard players reset @s jp_monsters
 scoreboard players reset @s jp_village
 scoreboard players reset @s jp_miscellaneous
+scoreboard players reset @s jp_festivities
 
 advancement revoke @s only just_plushies:stats/first_box
 advancement revoke @s only just_plushies:stats/ten_boxes
