@@ -1,0 +1,4 @@
+tellraw @s ["", {"text":"\nSECRETS COLLECTION CATALOG\n","bold":true,"underlined":true,"color":"red"}]
+
+function just_plushies:display/catalog/check_entry {id:"01", tag:"missing-texture", name:"Missing Texture", color:"red", texture:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJiMzBmZDEyMTRkN2ViMGJmZWMyNTZhNDA2Mzk1ZDEzYmI4ZjMyYjQyYzkzMmE1ODJiNjBlNDIxZjE1NDIxIn19fQ=="}
+function just_plushies:display/catalog/check_entry {id:"02", tag:"shuukyo", name:"Shuukyo", color:"red", texture:"eyJ0aW1lc3RhbXAiOjE3ODI3ODUyODksInByb2ZpbGVJZCI6ImM2MjgzYjE0MzVjNjRhMjk5NDIyNjMyNzI2MGM0NjFjIiwicHJvZmlsZU5hbWUiOiJOZWVkQ29vbGVyU2hvZXMiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk0NzJjMzNjZDc3ZDc0ZTNkMDQ2NGRkMDVjODhlZjJjNDllNDhmZTcwNjQ4YmMyNzYwMDg4Mzg0MDRmNTg3MWYifX19"}

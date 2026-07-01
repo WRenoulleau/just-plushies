@@ -1,6 +1,10 @@
 execute at @s run playsound block.enchantment_table.use player @a ~ ~ ~ 1 1
 tellraw @s {"text":"Every plushies related tags have been successfully added to you!","color":"green"}
 
+tag @s add show_secrets
+tag @s add got_missing-texture
+tag @s add got_shuukyo
+
 tag @s add got_angry-baby-bee
 tag @s add got_arctic-fox
 tag @s add got_armadillo

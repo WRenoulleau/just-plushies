@@ -12,3 +12,11 @@ tellraw @s ["", \
     {"text":"\n ᛫ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FhMWU5ZGI1MWFhYjZhNWEzMDVkMTc1YWEzMzE1MjAzNDhhNzllODFlZWQyOWU2ZTBjNmZlNWFkNjEyZWY2MCJ9fX0="}]}},{"text":" [Miscellaneous]","color":"green","click_event":{"action":"run_command","command":"/function just_plushies:display/catalog/miscellaneous"}}, \
     {"text":"\n ᛫ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM0YTVjZTlhNDkwZWFlNTliODU5N2NkMTcxYWM4MDI5NzhmM2VlYmYxNjc5MjU5ZDNlMDY2N2Y0YWUyOWQwMCJ9fX0="}]}},{"text":" [Festivities]","color":"green","click_event":{"action":"run_command","command":"/function just_plushies:display/catalog/festivities"}} \
 ]
+
+tag @s remove show_secrets
+execute if entity @s[tag=got_missing-texture] run tag @s add show_secrets
+execute if entity @s[tag=got_shuukyo] run tag @s add show_secrets
+
+execute if entity @s[tag=show_secrets] run tellraw @s ["", \
+    {"text":" ᛫ ","color":"gray"},{player:{properties:[{name:textures,value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZlNjY0NWE0NDBmNzNiZmI4ZDI3NGY0YTFiMGNkMDI3MWY1MjIzM2FiZDA3YTQ3N2IxZTdkZDdlODRiNGJkIn19fQ=="}]}},{"text":" [Secrets]","color":"green","click_event":{"action":"run_command","command":"/function just_plushies:display/catalog/secrets"}} \
+]
