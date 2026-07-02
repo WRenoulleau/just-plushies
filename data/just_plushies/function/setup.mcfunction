@@ -5,6 +5,7 @@ scoreboard players enable @a jp_stats
 scoreboard players enable @a jp_catalog
 
 scoreboard objectives add jp_cooldown dummy
+scoreboard objectives add jp_sneak custom:sneak_time
 
 scoreboard objectives add jp_total dummy "Boxes Opened"
 scoreboard objectives add jp_common dummy "Common Boxes Opened"
